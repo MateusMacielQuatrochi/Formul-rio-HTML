@@ -1,0 +1,33 @@
+{
+  "name": "formul-rio-html",
+  "version": "1.0.0",
+  "description": "Formulario feito",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusMacielQuatrochi/Formul-rio-HTML.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET",
+    "programação",
+    "cliente",
+    "servidor"
+  ],
+  "author": "Mateus Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusMacielQuatrochi/Formul-rio-HTML/issues"
+  },
+  "homepage": "https://github.com/MateusMacielQuatrochi/Formul-rio-HTML#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
