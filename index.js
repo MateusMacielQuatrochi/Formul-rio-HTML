@@ -73,6 +73,7 @@ app.use('/listarUsuarios', (req, resp) => {
   resp.write('<a href="/">Voltar</a>');
   resp.write('</body>');
   resp.write('</html>');
+  resp.end();
 });
 
 app.listen(porta, host, () => {
